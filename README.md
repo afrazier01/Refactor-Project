@@ -14,6 +14,8 @@ N/A
 
 To interact with this project, open the index and CSS file to view comments about changes to the code. You can also click on the links in the top right when the webpage is open in a browser.
 
+[Click Here to go to the deloyed webpage.](https://afrazier01.github.io/challenge-1/)
+
 ![Screenshot of deployed website](./assets/images/screenshot.png)
 
 ## Credits
