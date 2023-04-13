@@ -16,7 +16,7 @@ To interact with this project, open the index and CSS file to view comments abou
 
 Once the webpage is open, use Chrome DevTools by right-clicking and selecting inspect; or for windows - Control + Shift + I and for MacOS - Command + Option + I. Navigate to the arrow in the top left of the corner of the panel and select it, then hover mouse arrow over images to look at image descriptions.
 
-[Click Here to go to the deloyed webpage.](https://afrazier01.github.io/challenge-1/)
+[Click Here to go to the deloyed webpage.](https://afrazier01.github.io/Refactor-Project/)
 
 ![Screenshot of deployed website](./assets/images/screenshot.png)
 
